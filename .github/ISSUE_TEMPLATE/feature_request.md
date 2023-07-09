@@ -1,20 +1,12 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
+name: Alpine Feature Request
+about: Suggest a reasonable feature to be added to Alpine
 title: ''
-labels: ''
-assignees: ''
+labels: Enhancement
+assignees: MTACS
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**Feature Request**
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
-
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
-
-**Additional context**
-Add any other context or screenshots about the feature request here.
+Please make sure the request is possible and related to the existing theme of features. In addition, please check the current list of requested features to make sure there are no duplicates
