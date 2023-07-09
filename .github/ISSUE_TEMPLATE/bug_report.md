@@ -1,5 +1,5 @@
 ---
-name: Alpine Bug Report
+name: Bug Report
 about: Create a report to help improve Alpine
 title: ''
 labels: Bug
