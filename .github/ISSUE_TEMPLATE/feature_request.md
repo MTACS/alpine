@@ -1,5 +1,5 @@
 ---
-name: Alpine Feature Request
+name: Feature Request
 about: Suggest a reasonable feature to be added to Alpine
 title: ''
 labels: Enhancement
