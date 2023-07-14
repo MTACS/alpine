@@ -3,7 +3,7 @@
 **Proper tvOS alerts for iOS**
 
 ![alpine-banner](https://github.com/MTACS/alpine/assets/13209789/fdcc60b6-b035-4bf2-a670-7123445c9921)
-## Available on [Havoc](https://havoc.app)
+## Available soon on [Havoc](https://havoc.app)
 
 Alpine uses classes and styling taken directly from tvOS to bring a clean and modern look to alerts system wide. [Cephei](https://chariz.com/get/cephei) is required for use in all apps on all jailbreaks (rootful & rootless) on iOS 14.0 - 16.x.
 
