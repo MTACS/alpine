@@ -30,6 +30,6 @@ Alpine uses classes and styling taken directly from tvOS to bring a clean and mo
 ![screenshots](https://github.com/MTACS/alpine/assets/13209789/b8cd0a1f-0779-47b1-99c4-e0f9df4e76a6)
 
 #
-[Submit bug report](https://github.com/MTACS/alpine/issues/new?assignees=MTACS&labels=Bug&projects=&template=bug_report.md&title=)
+[Submit Bug Report](https://github.com/MTACS/alpine/issues/new?assignees=MTACS&labels=Bug&projects=&template=bug_report.md&title=)
 
 [Request Feature](https://github.com/MTACS/alpine/issues/new?assignees=MTACS&labels=Enhancement&projects=&template=feature_request.md&title=)
